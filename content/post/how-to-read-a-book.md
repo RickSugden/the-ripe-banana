@@ -30,9 +30,7 @@ Below is a modified version of their strategy,  made by picking, choosing and co
 5. Understand the "unity" of the book by asking what question the author was trying to solve with this book.
 6. Evaluate their arguments to determine whether their overall conclusions are supported. Did they solve their problem?
 
-I think that although their systematic approach would be excellent for extracting every drop of information from a single or a few books, I am not going to use it because I am trying to survey a lot of books to gain understanding of the world. This is not demanding of so much structure, but rather requires important ideas to be read understood rigorously and noted. When I make these notes, I try to condense the information as tightly as possible, because it forces me to have a high level of understanding (interestingly, some AI systems are based on this principle).
-
-What I found most interesting in this was not actually how to read a book, but rather how to criticize a book you've already read. Here's what they had to say:
+What I found most interesting was not actually how to read a book, but rather how to criticize a book you've already read. Here's what they had to say:
 
 For starters, do your best to not be "contentious". Not all books are written by philosophical scholars and if you are committed to finding a defect (however small) you will likely succeed and miss the point of the book.
 
@@ -43,7 +41,11 @@ More importantly, there are **only four** different ways of disagreeing with an 
 3. their logic is not sound
 4. their analysis is incomplete
 
-This is a simple yet powerful understanding of criticism. Having them categorized in this way invites the critical reader to be specific and think more deeply about their critical ideas. For example, if a reader were to say the author is misinformed, it inherently prompts them to complete the thought and explain precisely how they are misinformed or else the criticism will not be taken seriously. I am going to adopt this system for future blog posts. I will call it the **Four Failures**.
+**Reflection**
+
+I believe their model of criticism is simple yet powerful. Having them categorized invites the critical reader to be specific and think more deeply about their critical ideas. For example, if a reader were to say the author is misinformed, it inherently prompts them to complete the thought and explain precisely how they are misinformed or else the criticism will not be taken seriously. I am going to adopt this system for future blog posts. I will call it the **Four Failures**.
+
+I think that although their systematic approach would be excellent for extracting every drop of information from a single or a few books, I am not going to use it because I am trying to survey a lot of books to gain understanding of the world. This is not demanding of so much structure, but rather requires important ideas to be read understood rigorously and noted. When I make these notes, I try to condense the information as tightly as possible, because it forces me to have a high level of understanding (interestingly, some AI systems are based on this principle).
 
 **Conclusion**
 
