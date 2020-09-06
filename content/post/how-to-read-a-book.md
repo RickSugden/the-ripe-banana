@@ -42,7 +42,7 @@ More importantly, there are **only four** different ways of disagreeing with an 
 3. their logic is not sound
 4. their analysis is incomplete
 
-This is a simple yet powerful understanding of criticism. Having them categorized in this way invites the critical reader to be specific and think more deeply about their critical ideas. For example, if a reader were to say the author is misinformed, it inherently begs them to complete the thought and explain precisely how they are misinformed or else the criticism will not be taken seriously. I am going to adopt this system for future blog posts. I will call it the **Four Failures**.
+This is a simple yet powerful understanding of criticism. Having them categorized in this way invites the critical reader to be specific and think more deeply about their critical ideas. For example, if a reader were to say the author is misinformed, it inherently prompts them to complete the thought and explain precisely how they are misinformed or else the criticism will not be taken seriously. I am going to adopt this system for future blog posts. I will call it the **Four Failures**.
 
 **Conclusion**
 
