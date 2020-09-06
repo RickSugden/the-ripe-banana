@@ -42,6 +42,6 @@ More importantly, there are **only four** different ways of disagreeing with an 
 3. their logic is not sound
 4. their analysis is incomplete
 
-This is a simple yet powerful understanding of criticism. Having them categorized in this way invites the critical reader to be specific and think more deeply about their critical ideas. I am going to adopt this system in future blog posts. 
+This is a simple yet powerful understanding of criticism. Having them categorized in this way invites the critical reader to be specific and think more deeply about their critical ideas. For example, if a reader were to say the author is misinformed, it inherently begs them to complete the thought and explain precisely how they are misinformed or else the criticism will not be taken seriously. I am going to adopt this system for future blog posts. I will call it the **Four Failures**.
 
-Although I am not adopting their strategy verbatim for this reading project, I think there were some 
+Although I am not adopting their strategy verbatim for this reading project, I am going to be using several of their ideas. I would also recommend their strategy for anyone attempting a deep dive into a text (a condensed version will do). And lastly, I did not disagree with the book per se, I only found that the signal to noise ratio level (ironically, one of their covered topics) was too low.
