@@ -21,7 +21,7 @@ Here is some generic advice:
 * For technical readings, invest in properly understanding the glossary.
 * Avoids commentaries and wikis until you have made up your own mind.
 
-This is their strategy to approach reading (with my own modifications) if you need an in-depth understanding, for example, to write an essay. If you'd prefer it, I'm certain you could find the unchanged strategy online.
+This is a modified version of their strategy, picking, choosing and combining their ideas to fit this reading project. If you're studying a single or a few texts in depth, I'm confident you could find the unchanged strategy online.
 
 1. determine what kind of book it is (novel, history, science, memoir etc.)
 2. **Pigeonhole**: Spend the minimum amount of effort required to be able to summarize the author's argument in a sentence or two. To do this, read the title, the table of contents, sub headings, emphasized text and the index (the most overlooked). Confirm that you want to read this text.
@@ -44,3 +44,5 @@ More importantly, there are **only four** different ways of disagreeing with an 
 4. their analysis is incomplete
 
 This is a simple yet powerful understanding of criticism. Having them categorized in this way invites the critical reader to be specific and think more deeply about their critical ideas. I am going to adopt this system in future blog posts. 
+
+Although I am not adopting their strategy for this reading project, I 
