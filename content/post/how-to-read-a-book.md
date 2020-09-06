@@ -9,7 +9,7 @@ title = "How To Read A Book"
 +++
 I figured a good way to kickoff this reading project would be with "How to Read a Book" by Mortimer Adler and Charles Doren. I will start with some of the main takeaways from the book and provide my own edited version of their strategy for how to read books. Then I will discuss their suggestions on how to criticize a book _properly_. I will wrap up with a discussion of their ideas and which parts I will be adopting for this blog.
 
-I've been a slow reader all my life. In grade school, I would see my friends reading gigantic fantasy novels and they would be turning the pages at a speed incomprehensible to my grade-four self. I remember feeling suspicious that someone could consume the information that fast... and a little frustrated that I certainly couldn't. Since those days, I still wonder whether I was just a sucker for wasting so much time when I should be "skimming" my readings -- whatever that means. This book helped me understand that different types and speeds of reading and when to employ each.
+I've been a slow reader all my life. In grade school, I would see my friends reading gigantic fantasy novels and they would be turning the pages at a speed incomprehensible to my grade-four self. I remember feeling suspicious that someone could consume the information that fast... and a little frustrated that I certainly couldn't. Since those days, I still wonder whether I was just a sucker for wasting so much time when I should be "skimming" my readings -- whatever that means. This book helped me understand that different types and speeds of reading and when to employ each. Here are some of the main points I picked up on:
 
 **Main Takeaways**
 
@@ -19,6 +19,7 @@ I've been a slow reader all my life. In grade school, I would see my friends rea
 * Also to improve speed, place a finger or thumb next to the line you're reading so your eye immediately goes to the correct spot on the next line.
 * For technical readings, invest in properly understanding the glossary.
 * Avoids commentaries and wikis until you have made up your own mind.
+* **write in the margins**. The authors felt very strongly that reading a book is a sort of dialogue. The author has had their turn and now you ought to respond. This allows you to grapple with arguments and connect ideas from different pages (or even books).
 
 This is a modified version of their strategy, picking, choosing and combining their ideas to fit this reading project. If you're studying a single or a few texts in depth, I'm confident you could find the unchanged strategy online.
 
