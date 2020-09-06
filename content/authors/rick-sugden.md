@@ -2,7 +2,7 @@
 avatar = ""
 bio = ""
 draft = true
-featured = false
+featured = true
 title = "Rick Sugden"
 [[social]]
 title = "Facebook"
