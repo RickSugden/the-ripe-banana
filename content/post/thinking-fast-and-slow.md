@@ -20,20 +20,14 @@ For my first real book selection, I have chosen a book that I think is a new fun
 
 **Part 2:**
 
-* Consider a study of kidney cancer reveals its incidence is lowest in rural, sparsely populated areas. We naturally associate these as causes for the low rates.
-*  In reality, longer studies showed that the cause of this finding was simply that being in a sparsely populated area made it easier for sample variation to show a high or low amount. 
-* The interesting part is that the sparsely populated part probably did not immediately strike you as relevant. 
+* Consider a study of kidney cancer reveals its incidence is lowest in rural, sparsely populated areas. We naturally associate these as causes for the low rates. In reality, longer studies showed that the cause of this finding was simply that being in a sparsely populated area made it easier for sample variation to show a high or low amount. The interesting part is that the sparsely populated part probably did not immediately strike you as relevant. 
 * It is believed that 40% of psychological studies have a negative result only because their sample size is too low and so they fail to achieve statistical significance. It is a major problem that researchers choose sample size by intuition instead of statistics.
-
-Anchoring is a sort of priming effect where someone is shown a number and presumes it to be reasonable, future negotiations and decision making now take that in account and tend to gravitate towards that. E.g. max 5 per customer, probably gets more people to buy 5 than otherwise would. Don’t let anyone’s predictions influence your thinking.
-
-Availability bias is the fact that someone who's personally been mugged exaggerates the risk and someone who’s news source does not cover a type of pollution underestimates the damage. Availability cascades are the halo effect, you’re likely to think something is all good or all bad so based off initial information you’re likely to extrapolate incorrectly.
-
-Don’t forget base rates, some guy who’s a perfect candidate for a librarian, you have to take into account almost no guys are librarians.
-
-People like to believe that event B is more likely than A even if B is a subset of A because if a narrative is provided is seems more plausible. People mistake plausible for probable. Also remember the blue and green cab example. Dont assume people will learn from stats, give them representative cases to help them understand.
-
-In a series of events, unlikely results are likely followed by one that reverts to the mean (e.g. random number 0 to 100, 6 is achieved, next one is likely to be closer to mean 50). So punishing a poor performance doesn’t necessarily work, it just statistically will revert to the mean anyway.
+* Anchoring is priming effect where someone is shown a number and presumes it to be reasonable, future negotiations and decision making now take that in account and tend to gravitate towards that. E.g. max 5 per customer, probably gets more people to buy 5 than otherwise would. Don’t let anyone’s predictions influence your thinking.
+* **Availability bias:** things that come easily to mind are believed to be more likely. They mistake plausible for probable. Participants selected an earthquake causing an American tsunami to be greater odds than just an American tsunami. 
+* Availability cascade (halo effect): proness to thinking something is all good or all bad leading to incorrect extrapolation off initial information.
+* Don’t forget base rates, study participants read of a guy who would be a perfect candidate for a librarian. When guessing their profession, they failed to take into account that few males are librarians.
+* Dont assume people will learn from stats, give them representative cases to help them understand.
+* In a series of events, unlikely results are likely followed by one that will **revert to the mean**. A random number 0 to 100, 6 is achieved, next one is likely to be closer to mean 50). So punishing a poor performance doesn’t necessarily work, it just statistically will revert to the mean anyway.
 
 Part 3: narrative fallacy is that things seem predictable retrospectively and decisions are often evaluated based on their outcomes when really the conditions it was made in are the only relevant thing. Bad decisions can work out well - outcome bias.
 
