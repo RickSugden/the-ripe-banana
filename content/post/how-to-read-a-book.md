@@ -11,7 +11,7 @@ Before I even let you get to the second line, I will recommend you don't read "H
 
 I've been a slow reader all my life. In grade school, I would see my friends reading gigantic fantasy novels and they would be turning the pages at a speed incomprehensible to my grade-four self. I remember feeling suspicious that someone could consume the information that fast... and a little frustrated that I certainly couldn't. Since those days, I still wonder whether I was just a sucker for wasting so much time when I should be "skimming" my readings -- whatever that means. This book helped me understand that different types and speeds of reading and when to employ each.
 
-**Main Takeaways**Main Takeaways
+**Main Takeaways**
 
 * If the text is challenging, on the first read through, don't dwell on passages you don't understand. Keep moving and once you have an understanding of the greater picture, it will often make sense. A great example of when this would be useful is in reading Shakespeare.
 * Many people believe it is desirable to read faster, full stop. The authors argue that many people need to read certain texts slower, to allow for contemplation and absorption of the ideas. Other times, it may not even be necessary to read every word. Make sure you know what kind of book it is and pace accordingly.
