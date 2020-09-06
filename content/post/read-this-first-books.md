@@ -1,7 +1,7 @@
 +++
 authors = []
 date = 2020-09-04T04:00:00Z
-excerpt = ""
+excerpt = "I don't actually like reading... let me explain"
 hero = "/images/library.jpg"
 timeToRead = 3
 title = "Read This First (books)"
