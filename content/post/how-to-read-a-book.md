@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-09-05T04:00:00Z
-draft = true
 excerpt = ""
 hero = ""
 timeToRead = 5
@@ -45,4 +44,4 @@ More importantly, there are **only four** different ways of disagreeing with an 
 
 This is a simple yet powerful understanding of criticism. Having them categorized in this way invites the critical reader to be specific and think more deeply about their critical ideas. I am going to adopt this system in future blog posts. 
 
-Although I am not adopting their strategy for this reading project, I 
+Although I am not adopting their strategy verbatim for this reading project, I think there were some 
