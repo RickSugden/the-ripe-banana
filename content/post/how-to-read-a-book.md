@@ -17,11 +17,11 @@ I've been a slow reader all my life. In grade school, I would see my friends rea
 * Many people believe it is desirable to read faster, full stop. The authors argue that many people need to read certain texts slower, to allow for contemplation and absorption of the ideas. Other times, it may not even be necessary to read every word. Make sure you know what kind of book it is and pace accordingly.
 * To read faster, don't read the words in your head, but rather scan over the sentence quickly and let your brain (spookily) determine the essence of the sentence. This works better than I thought it would.
 * Also to improve speed, place a finger or thumb next to the line you're reading so your eye immediately goes to the correct spot on the next line.
-* For technical readings, invest in properly understanding the glossary.
+* For technical readings, first invest in properly understanding the glossary. Experts often have their own meaning for keywords.
 * Avoids commentaries and wikis until you have made up your own mind.
 * **write in the margins**. The authors felt very strongly that reading a book is a sort of dialogue. The author has had their turn and now you ought to respond. This allows you to grapple with arguments and connect ideas from different pages (or even books).
 
-This is a modified version of their strategy, picking, choosing and combining their ideas to fit this reading project. If you're studying a single or a few texts in depth, I'm confident you could find the unchanged strategy online.
+Below is a modified version of their strategy,  made by picking, choosing and combining their ideas to fit my reading goals. If you're studying a single or a few texts in depth, I'm confident you could find the unchanged strategy online.
 
 1. determine what kind of book it is (novel, history, science, memoir etc.)
 2. **Pigeonhole**: Spend the minimum amount of effort required to be able to summarize the author's argument in a sentence or two. To do this, read the title, the table of contents, sub headings, emphasized text and the index (the most overlooked). Confirm that you want to read this text.
