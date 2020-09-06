@@ -49,8 +49,8 @@ I think that although their systematic approach to reading would be excellent fo
 
 **Conclusion**
 
-Although I am not adopting their reading method verbatim , I am going to be using several of their ideas. I would recommend their strategy for anyone attempting a deep dive into a text. And lastly, I did not disagree with the book per se, I only found that the signal to noise ratio level (ironically, one of their covered topics) was too low. I would not recommend this book, a summary/blinklist of the strategy will do. 
+Although I am not adopting their reading method verbatim , I am going to be using several of their ideas. I would recommend their strategy for anyone attempting a deep dive into a text. And lastly, I did not disagree with the book per se, I only found that the signal to noise ratio level (ironically, one of their covered topics) was too low. I would not recommend this book, a summary/blinklist of the strategy will do.
 
-**Appendix**
+**Note**
 
-In future blogs, I will briefly describe 
+In future blogs, I may briefly describe how I read the book using any of the bolded terms in this entry.
