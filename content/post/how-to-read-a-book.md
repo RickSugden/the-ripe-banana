@@ -2,7 +2,7 @@
 authors = []
 date = 2020-09-05T04:00:00Z
 excerpt = ""
-hero = ""
+hero = "/images/homer_reading.jpg"
 timeToRead = 5
 title = "How To Read A Book"
 
