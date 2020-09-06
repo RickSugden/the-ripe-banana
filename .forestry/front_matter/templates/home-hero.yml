@@ -7,7 +7,6 @@ fields:
   config:
     required: false
   label: Heading
-  description: Bananza
 - name: maxWidthPX
   type: number
   label: Max Width
