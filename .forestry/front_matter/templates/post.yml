@@ -41,5 +41,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/Books/book-2.md
 - content/post/how-to-read-a-book.md
 - content/post/read-this-first-books.md
