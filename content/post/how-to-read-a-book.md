@@ -15,6 +15,7 @@ I've been a slow reader all my life. In grade school, I would see my friends rea
 Here is some generic advice:
 
 * Most books aren't good. Before investing the time to read the whole thing, spend the minimum amount required to be able to summarize the author's argument in a paragraph or so. To do this, read the title, the table of contents, sub headings, emphasized text and (if needed) the index. 
+* If the text is challenging, on the first read through, don't dwell on passages you don't understand. Keep moving and once you have an understanding of the greater picture, it will often make sense or is unnecessary. 
 * Many people believe it is desirable to read faster, full stop. The authors argue that many people need to read certain texts slower, to allow for contemplation and absorption of the ideas. Other times, it may not even be necessary to read every word. Make sure you know what kind of book it is and pace accordingly.
 * To read faster, don't read the words in your head, but rather scan over the sentence quickly and let your brain (spookily) determine the essence of the sentence. This works better than I thought it would.
 * Also to improve speed, place a finger or thumb next to the line you're reading so your eye immediately goes to the correct spot on the next line. 
