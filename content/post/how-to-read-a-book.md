@@ -41,7 +41,7 @@ More importantly, there are **only four** different ways of disagreeing with an 
 3. their logic is not sound
 4. their analysis is incomplete
 
-**Reflection**
+**Discussion**
 
 I believe their model of criticism is simple yet powerful. Having them categorized invites the critical reader to be specific and think more deeply about their critical ideas. For example, if a reader were to say the author is misinformed, it inherently prompts them to complete the thought and explain precisely how they are misinformed or else the criticism will not be taken seriously. I am going to adopt this system for future blog posts. I will call it the **Four Failures**.
 
