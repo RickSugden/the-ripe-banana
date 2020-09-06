@@ -7,7 +7,7 @@ timeToRead = 5
 title = "How To Read A Book"
 
 +++
-Before I even let you get to the second line, I will recommend you don't read "How to Read a Book" by Mortimer Adler and Charles Doren. I normally would prefer to say nothing at all rather than write a negative review so I will try to be concise. I will start with some of their general advice I will be using. I will then give my edited version of their strategy for how to read books along with my thoughts on it. Lastly I will discuss their suggestions on how to criticize a book.
+I figured a good way to kickoff this reading project would be with "How to Read a Book" by Mortimer Adler and Charles Doren. I will start with some of the main takeaways from the book and provide my own edited version of their strategy for how to read books. Then I will discuss their suggestions on how to criticize a book _properly_. I will wrap up with a discussion of their ideas and which parts I will be adopting for this blog.
 
 I've been a slow reader all my life. In grade school, I would see my friends reading gigantic fantasy novels and they would be turning the pages at a speed incomprehensible to my grade-four self. I remember feeling suspicious that someone could consume the information that fast... and a little frustrated that I certainly couldn't. Since those days, I still wonder whether I was just a sucker for wasting so much time when I should be "skimming" my readings -- whatever that means. This book helped me understand that different types and speeds of reading and when to employ each.
 
