@@ -15,7 +15,7 @@ For my first real book selection, I have chosen a book that I think is a new fun
 
 ### **Notes**
 
-This book reflects decades of psychology research; no summary will do justice to the original. I have selected what I think are some of the most interesting ideas along with how I intend to apply them to my life _in italics._ Some ideas are omitted as I intend to cover them when I read their original source. 
+This book reflects decades of psychology research; no summary will do justice to the original. I have selected what I think are some of the most interesting ideas along with how I intend to apply them to my life _in italics._ A couple key ideas are omitted as I intend to cover them when I read their original source. 
 
 ##### **Part 1:** 
 
