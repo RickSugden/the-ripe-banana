@@ -63,4 +63,8 @@ This book reflects decades of psychology research so no summary will do the orig
 * In an experiment, people placed one hand in very cold water for a minute and the other in the same, and then moderately cold water for an extra 30 seconds. When asked which they'd prefer to repeat, they chose the later, **effectively volunteering the extra 30 seconds of discomfort.** This is because our minds register the intensity of the worst part and the ending with equal weight, greatly neglecting duration.
 
   _Most breakups are "like a symphony with a screeching sound at the end--the fact that it ended badly does not mean it was all bad._
-* People rated a 30 year life of great joy to be more "desirable" than 30 years of great joy and 5 years of moderate joy. _Don't let yourself  become less happy_
+* People rated a 60 year life of great joy to be more "desirable" than 60 years of great joy and 5 years of moderate joy. _Try to evaluate happiness in absolute terms not relative, taking into account duration. The best way to control happiness is to control your use of time so you can find more time to do things you like._
+* People asked how many dates they had been on in the last month then how happy are they with their life correlated their answers. _Evaluating the big picture cannot be done in a single instance._
+* **Nothing in life is as important as you think when you are thinking about it.**
+
+  _A fancy car will only make you happy in relation to how much you think about your car. If it's something you don't think about often, it won't bring you much happiness._
