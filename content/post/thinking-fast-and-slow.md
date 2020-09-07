@@ -11,11 +11,11 @@ title = "Thinking Fast and Slow"
 
 ### Thinking Fast and Slow
 
-For my first real book selection, I have chosen a book that I think is a new fundamental part of my thinking that will come up again and again in future analyses: Daniel Kahneman's "Thinking Fast and Slow". In this post I will discuss some of the ideas I found most interesting and how I plan on applying them to my life. If you have not read it, I recommend every thinking person skim section one and carefully read the remaining four sections. For a brief sales pitch, see my goodreads review: [https://www.goodreads.com/review/show/3422865381](https://www.goodreads.com/review/show/3422865381 "Goodreads_thinking_fast_and_slow")
+For my first real book selection, I have chosen a book that I think is a new fundamental part of my thinking that will come up again and again in future analyses: Daniel Kahneman's "Thinking Fast and Slow". In this post I will discuss some of the ideas I found most interesting and how I plan on applying them to my life. If you have not read it, I recommend every thinking person skim section one and carefully read the remaining four. For a brief sales pitch, see my goodreads review: [https://www.goodreads.com/review/show/3422865381](https://www.goodreads.com/review/show/3422865381 "Goodreads_thinking_fast_and_slow")
 
 ### **Notes**
 
-This book reflects decades of psychology research so no summary will do the original justice because it is simply overflowing with useful knowledge. I have selected what I think are some of the most interesting ones along with how I intend to apply them to my life _in italics._ 
+This book reflects decades of psychology research; no summary will do justice to the original. I have selected what I think are some of the most interesting ideas along with how I intend to apply them to my life _in italics._ Some ideas are omitted as I intend to cover them when I read their original source. 
 
 ##### **Part 1:** 
 
@@ -65,7 +65,7 @@ This book reflects decades of psychology research so no summary will do the orig
 * In an experiment, people placed one hand in very cold water for a minute and the other in the same, and then moderately cold water for an extra 30 seconds. When asked which they'd prefer to repeat, they chose the later, **effectively volunteering the extra 30 seconds of discomfort.** This is because our minds register the intensity of the worst part and the ending with equal weight, greatly neglecting duration.
 
   _Most breakups are "like a symphony with a screeching sound at the end--the fact that it ended badly does not mean it was all bad._
-* People rated a 60 year life of great joy to be more "desirable" than 60 years of great joy and 5 years of moderate joy. _Try to evaluate happiness in absolute terms not relative, taking into account duration. The best way to control happiness is to control your use of time so you can find more time to do things you like._
+* **Duration Neglect:** People rated a 60 year life of great joy to be more "desirable" than 60 years of great joy and 5 years of moderate joy. _Try to evaluate happiness in absolute terms not relative, taking into account duration. The best way to control happiness is to control your use of time so you can find more time to do things you like._
 * People asked how many dates they had been on in the last month then how happy are they with their life correlated their answers. _Evaluating the big picture cannot be done in a single instance._
 * **Nothing in life is as important as you think when you are thinking about it.**
 
@@ -75,4 +75,4 @@ This book reflects decades of psychology research so no summary will do the orig
 
 This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It taught me how to ground my confidence in probability to make the informed decision. Perhaps most importantly, it gave insight as to how we shortchange ourselves of life satisfaction just because of the way we reflect.
 
-These ideas 
+These ideas are not limited to self-improvement. Ideas such as the halo effect, over-weighting of improbable events, duration neglect etc. are simply tools for understanding other's thinking. I hope to use these tools when evaluating future books both as criticism and support.
