@@ -49,12 +49,18 @@ This book reflects decades of psychology research so no summary will do the orig
 * When dealing with possible gains, people are risk averse and prefer the for sure option but when dealing with losses they are risk seeking and prefer to gamble. 
 
   **Losses register psychologically as twice the weight of an equal gain.**
-* Kahneman gave a few multiple choice questions and was able to show that the average reader (including yours truly) would act according to a risk policy that flips and flops between sure gains and risk taking to avoid loss. He then showed a summary that showed my choices in each scenario led to the lowest expected outcome total. _His solution is that you should pick a risk policy and stick with it. If offered a coin toss of win 150 lose 100, if you always accept, then over the course of your life it will bring net benefit. Either always or never buy the extended warranty etc._
+* Kahneman gave a few multiple choice questions and was able to show that the average reader (including yours truly) would act according to a risk policy that flips and flops between sure gains and risk taking to avoid loss. He then showed a summary that showed my choices in each scenario led to the **lowest total expected outcome!** _His solution is that you should pick a risk policy and stick with it. If offered a coin toss of win 150 lose 100, if you always accept, then over the course of your life it will bring net benefit. Either always or never buy the extended warranty etc._
 * People overweight highly improbable events and so:
   *  they become risk seeking when its a gain, potentially rejecting a favourable settlement. 
   * they become risk averse when the cost is high accepting an unfavourable settlement.
 * The endowment effect states that people prefer things they already have. They randomly gave people a chocolate bar or a mug but majority did not want to trade for the other option.
-* People putt better to avoid a bogey than achieve a birdie.
+* People putt better to avoid a bogey than to achieve a birdie.
 * People avoid closing a “mental account” which results in a loss. They don’t want to end their shift until they made a days earnings. Cab drivers make more on rainy days so they clock out earlier and stay longer on sunny days when _you’d make more money doing the opposite._
 
-##### Part 5:
+##### Part 5: The Two Selves
+
+* In part 5, Kahneman writes about how we remember things differently from how we actually experienced them leading to incorrectly (and detrimentally) reflecting on our lives. 
+* In an experiment, people placed one hand in very cold water for a minute and the other in the same, and then moderately cold water for an extra 30 seconds. When asked which they'd prefer to repeat, they chose the later, **effectively volunteering the extra 30 seconds of discomfort.** This is because our minds register the intensity of the worst part and the ending with equal weight, greatly neglecting duration.
+
+  _Most breakups are "like a symphony with a screeching sound at the end--the fact that it ended badly does not mean it was all bad._
+* People rated a 30 year life of great joy to be more "desirable" than 30 years of great joy and 5 years of moderate joy. _Don't let yourself  become less happy_
