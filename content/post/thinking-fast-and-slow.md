@@ -71,6 +71,6 @@ This book reflects decades of psychology research; no summary will do justice to
 
 ### Reflections
 
-This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It urges us to put our confidence in probability and make logical decisions. Perhaps most importantly, it quantifies how we set ourselves up for misery with unsuited lifestyles and shortchange ourselves of life satisfaction by not employing proper methods of reflection. 
+This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It urges us to put our confidence in probability and make logical decisions. Perhaps most importantly, it exposes, quantitatively, how we set ourselves up for misery with unfitting lifestyles and shortchange ourselves of life satisfaction by not employing proper methods of reflection. 
 
 These ideas are not limited to self-improvement. Concepts such as the halo effect, over-weighting of improbable events, duration neglect etc. are simply tools for understanding other's thinking. I hope to use these tools when evaluating future books both as criticism and support.
