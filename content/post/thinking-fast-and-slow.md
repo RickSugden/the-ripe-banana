@@ -1,6 +1,7 @@
 +++
 authors = []
 date = 2020-09-06T04:00:00Z
+draft = true
 excerpt = ""
 hero = "/images/the_thinker-3.jpg"
 timeToRead = 6
@@ -70,6 +71,6 @@ This book reflects decades of psychology research; no summary will do justice to
 
 ### Reflections
 
-This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It taught me how to ground my confidence in probability to make the informed decision. Perhaps most importantly, it gave insight as to how we shortchange ourselves of life satisfaction just because of the way we reflect.
+This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It urges us to put our confidence in probability and make logical decisions. Perhaps most importantly, it quantifies how we set ourselves up for misery with unsuited lifestyles and shortchange ourselves of life satisfaction by not employing proper methods of reflection. 
 
 These ideas are not limited to self-improvement. Concepts such as the halo effect, over-weighting of improbable events, duration neglect etc. are simply tools for understanding other's thinking. I hope to use these tools when evaluating future books both as criticism and support.
