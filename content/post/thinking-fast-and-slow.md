@@ -4,7 +4,7 @@ date = 2020-09-06T04:00:00Z
 draft = true
 excerpt = ""
 hero = "/images/the_thinker.jpg"
-timeToRead = 8
+timeToRead = 6
 title = "Thinking Fast and Slow"
 
 +++
@@ -74,4 +74,4 @@ This book reflects decades of psychology research; no summary will do justice to
 
 This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It taught me how to ground my confidence in probability to make the informed decision. Perhaps most importantly, it gave insight as to how we shortchange ourselves of life satisfaction just because of the way we reflect.
 
-These ideas are not limited to self-improvement. Ideas such as the halo effect, over-weighting of improbable events, duration neglect etc. are simply tools for understanding other's thinking. I hope to use these tools when evaluating future books both as criticism and support.
+These ideas are not limited to self-improvement. Concepts such as the halo effect, over-weighting of improbable events, duration neglect etc. are simply tools for understanding other's thinking. I hope to use these tools when evaluating future books both as criticism and support. 
