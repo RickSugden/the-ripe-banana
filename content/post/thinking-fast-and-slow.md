@@ -57,11 +57,10 @@ This book reflects decades of psychology research; no summary will do justice to
   * they become risk averse when the improbable event would be devastating, accepting an unfavourable settlement.
 * The endowment effect states that people prefer things they already have. They randomly gave people a chocolate bar or a mug but majority did not want to trade for the other option.
 * People putt better to avoid a bogey than to achieve a birdie.
-* People avoid closing a “mental account” which results in a loss. They don’t want to end their shift until they made a days earnings. Cab drivers make more on rainy days so they clock out earlier and stay longer on sunny days when _you’d make more money doing the opposite._
+* People avoid closing a “**mental account**” which results in a loss. They don’t want to end their shift until they made a days earnings. Cab drivers make more on rainy days so they clock out earlier and stay longer on sunny days when _you’d make more money doing the opposite._
 
 ##### Part 5: The Two Selves
 
-* In part 5, Kahneman writes about how we remember things differently from how we actually experienced them leading to incorrectly (and detrimentally) reflecting on our lives. 
 * In an experiment, people placed one hand in very cold water for a minute and the other in the same, and then moderately cold water for an extra 30 seconds. When asked which they'd prefer to repeat, they chose the later, **effectively volunteering the extra 30 seconds of discomfort.** This is because our minds register the intensity of the worst part and the ending with equal weight, greatly neglecting duration.
 
   _Most breakups are "like a symphony with a screeching sound at the end--the fact that it ended badly does not mean it was all bad._
