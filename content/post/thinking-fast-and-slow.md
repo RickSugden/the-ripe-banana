@@ -9,6 +9,8 @@ title = "Thinking Fast and Slow"
 
 +++
 
+### Thinking Fast and Slow
+
 For my first real book selection, I have chosen a book that I think is a new fundamental part of my thinking that will come up again and again in future analyses: Daniel Kahneman's "Thinking Fast and Slow". In this post I will discuss some of the ideas I found most interesting and how I plan on applying them to my life. If you have not read it, I recommend every thinking person skim section one and carefully read the remaining four sections. For a brief sales pitch, see my goodreads review: [https://www.goodreads.com/review/show/3422865381](https://www.goodreads.com/review/show/3422865381 "Goodreads_thinking_fast_and_slow")
 
 ### **Notes**
@@ -68,3 +70,5 @@ This book reflects decades of psychology research so no summary will do the orig
 * **Nothing in life is as important as you think when you are thinking about it.**
 
   _A fancy car will only make you happy in relation to how much you think about your car. If it's something you don't think about often, it won't bring you much happiness._
+
+### Reflections
