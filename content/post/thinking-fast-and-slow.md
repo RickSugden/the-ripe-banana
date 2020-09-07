@@ -9,7 +9,7 @@ title = "Thinking Fast and Slow"
 +++
 ### Thinking Fast and Slow
 
-For my first real book selection, I have chosen a book that I think is a new fundamental part of my thinking that will come up again and again in future analyses: Daniel Kahneman's "Thinking Fast and Slow". In this post I will discuss some of the ideas I found most interesting and how I plan on applying them to my life. If you have not read it, I recommend every thinking person skim section one and carefully read the remaining four. For a brief sales pitch, see my Goodreads review: [https://www.goodreads.com/review/show/3422865381](https://www.goodreads.com/review/show/3422865381 "Goodreads_thinking_fast_and_slow")
+For my first real book selection, I have chosen a book that I think is a new fundamental part of my thinking that will come up again and again in future analyses: Daniel Kahneman's "Thinking Fast and Slow". In this post I will discuss some of the ideas I found most interesting and how I plan on applying them to my life. If you have not read it, I recommend to every thinking person: skim section one and carefully read the remaining four. For a brief sales pitch, see my Goodreads review: [https://www.goodreads.com/review/show/3422865381](https://www.goodreads.com/review/show/3422865381 "Goodreads_thinking_fast_and_slow")
 
 ### **Notes**
 
