@@ -13,6 +13,8 @@ For my first real book selection, I have chosen a book that I think is a new fun
 
 ### **Notes**
 
+This book reflects decades of psychology research so no summary will do the original justice because it is simply overflowing with useful knowledge. I have selected what I think are some of the most interesting ones along with how I intend to apply them to my life _in italics._ 
+
 ##### **Part 1:** 
 
 * This part distinguishes Systems 1 and 2. 
@@ -21,13 +23,13 @@ For my first real book selection, I have chosen a book that I think is a new fun
 
 ##### **Part 2: Heuristics and Biases**
 
-* Consider a study of kidney cancer reveals its incidence is lowest in rural, sparsely populated areas. We naturally associate these as causes for the low rates. In reality, longer studies showed that the cause of this finding was simply that being in a sparsely populated area made it easier for sample variation to show a high or low amount. The interesting part is that the sparsely populated part probably did not immediately strike you as relevant. _Don't let your system 1 thinking ignore information._
+* Consider a study of kidney cancer reveals its incidence is lowest in rural, sparsely populated areas. We naturally associate these as causes for the low rates. In reality, longer studies showed that the cause of this finding was simply that being in a sparsely populated area made it easier for sample variation to show a high or low amount. The interesting part is that the sparsely populated part probably did not immediately strike you as relevant. _Don't let your system 1 thinking discard information as irrelevant._
 * It is believed that 40% of psychological studies have a negative result only because their sample size is too low and so they fail to achieve statistical significance. _Researchers ought to choose sample size with statistics, not intuition._
 * Anchoring is a priming effect where someone is shown a number and presumes it to be reasonable, future negotiations and decision making now take that in account and tend to gravitate towards that. _Decide what you think is reasonable before hearing a salesman's opinion._
 * **Availability bias:** things that come easily to mind are believed to be more likely. They mistake plausible for probable. Participants selected an earthquake causing an American tsunami to be greater odds than just an American tsunami. 
 * Availability cascade (halo effect): proneness to thinking something is all good or all bad leading to incorrect extrapolation off initial information.
 * Study participants read of a guy who would be a perfect candidate for a librarian. When guessing their profession, they failed to take into account that few males are librarians. _Don't forget base rates._
-* Don't assume people will learn from stats, give them representative cases to help them understand.
+* Don't assume people will learn from stats, give them representative cases to help them understand. _I will try to implement this in any explanations._
 * In a series of events, unlikely results are likely followed by one that will **revert to the mean**. A random number 0 to 100, 6 is achieved, next one is likely to be closer to mean 50). _Punishing poor performance is not as good as rewarding good performance. Reversion to the mean can provide an illusion that the opposite is true._
 
 ##### Part 3: Overconfidence
@@ -43,16 +45,16 @@ For my first real book selection, I have chosen a book that I think is a new fun
   1.  50% between 1 and 4 million dollars 
   2. certain 2 million dollars
 
-  Non-millionares will choose the lower expected value (2) and if your bank account is $1M you'll likely double for certain whereas if it is $4M you'd likely take the gamble to keep your wealth. _People are willing to pay a premium for certainty._
-* When dealing with possible gains, people are risk averse and prefer the for sure option but when dealing with losses they are risk seeking and prefer to gamble. Try  
+  If your bank account is $1M or lower you'll likely double for certain whereas if it is $4M people prefer to take the gamble to keep their wealth. The first case shows us that _people are willing to pay a premium for certainty._
+* When dealing with possible gains, people are risk averse and prefer the for sure option but when dealing with losses they are risk seeking and prefer to gamble. 
 
   **Losses register psychologically as twice the weight of an equal gain.**
-* Kahneman gave a few multiple choice questions and was able to show that the average reader (including yours truly) would act according to a risk policy that flips and flops between sure gains and risk taking to avoid loss. He then showed a summary that showed my choices in each scenario led to the lowest expected outcome total. _His solution is that you should pick a policy and stick with it. If offered a coin toss of win 150 lose 100, if you always accept, then over the course of your life it will bring net benefit. Either always or never buy the extended warranty etc._
-* People overweight highly improbable events and so they become risk seeking when its a gain, potentially rejecting a favourable settlement and risk averse when the cost is high accepting an unfavourable settlement.
+* Kahneman gave a few multiple choice questions and was able to show that the average reader (including yours truly) would act according to a risk policy that flips and flops between sure gains and risk taking to avoid loss. He then showed a summary that showed my choices in each scenario led to the lowest expected outcome total. _His solution is that you should pick a risk policy and stick with it. If offered a coin toss of win 150 lose 100, if you always accept, then over the course of your life it will bring net benefit. Either always or never buy the extended warranty etc._
+* People overweight highly improbable events and so:
+  *  they become risk seeking when its a gain, potentially rejecting a favourable settlement. 
+  * they become risk averse when the cost is high accepting an unfavourable settlement.
 * The endowment effect states that people prefer things they already have. They randomly gave people a chocolate bar or a mug but majority did not want to trade for the other option.
 * People putt better to avoid a bogey than achieve a birdie.
-* People prefer gains they can visualize and they prefer things where there are more chances to win even if the probability is lower (1 in 10 is not preferred vs 8 in 100)
 * People avoid closing a “mental account” which results in a loss. They don’t want to end their shift until they made a days earnings. Cab drivers make more on rainy days so they clock out earlier and stay longer on sunny days when _you’d make more money doing the opposite._
-* Framing makes a difference such as 10% mortality vs 90% survival.
 
 ##### Part 5:
