@@ -60,6 +60,8 @@ This book reflects decades of psychology research; no summary will do justice to
 
 ##### Part 5: The Two Selves
 
+* The experiencing self: the consciousness that lives through every moment of your life and experiences things as they happen to you, real-time. It cannot remember, only experience.
+* The remembering self: the self composed of experiences and memories that grows and changes as new experiences occur. It can only remember, not experience. 
 * In an experiment, people placed one hand in very cold water for a minute and the other in the same, and then moderately cold water for an extra 30 seconds. When asked which they'd prefer to repeat, they chose the later, **effectively volunteering the extra 30 seconds of discomfort.** This is because our minds register the intensity of the worst part and the ending with equal weight, greatly neglecting duration.
 
   _Most breakups are "like a symphony with a screeching sound at the end--the fact that it ended badly does not mean it was all bad._
@@ -71,6 +73,6 @@ This book reflects decades of psychology research; no summary will do justice to
 
 ### Reflections
 
-This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It urges us to put our confidence in probability and make logical decisions. Perhaps most importantly, it exposes, quantitatively, how we set ourselves up for misery with unfitting lifestyles and shortchange ourselves of life satisfaction by not employing proper methods of reflection. 
+This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It urges us to put our confidence in probability and make logical decisions. Perhaps most importantly, it exposes, quantitatively, how we set ourselves up for misery with unfitting lifestyles and shortchange ourselves of life satisfaction by not employing proper methods of reflection. Now, let's turn our attention to an interesting thought experiment from part 5: How much would a $1000 vacation be worth to you if you wouldn't remember or have any photos of it? Many might say that the vacation would be meaningless, worth almost nothing... but what if we reverse the scenario? Now, you will be entering a painful surgery where they will give you a drug at the end and you won't remember anything. You will be awake unless you choose to pay for an expensive anesthetic. All of a sudden our intuition switches and we'd be happy to fork over any amount of money. Paradoxically, in one case we do not provide much weight to the experiencing self and in the other, we consider it with the upmost importance. I now want you to recall what I found to be the most profound observation in the book--duration neglect. I think that somewhere in the mix between duration neglect and paradox shown above lies the answer to why the West, as a society, fails to appreciate its blessings.
 
 These ideas are not limited to self-improvement. Concepts such as the halo effect, over-weighting of improbable events, duration neglect etc. are simply tools for understanding other's thinking. I hope to use these tools when evaluating future books both as criticism and support.
