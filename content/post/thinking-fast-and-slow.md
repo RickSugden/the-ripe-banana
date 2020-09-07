@@ -39,7 +39,11 @@ For my first real book selection, I have chosen a book that I think is a new fun
 
 ##### Part 4: Decision Making
 
-* Expected utility value is not how people make decisions. There is non-linear relation where winning $1M for sure  provides most of the value compared at a chance for 4M. You also need to consider circumstances such as two people with 6M, one doubled from 3 and one halved from 12, these people are not equally happy. _People are willing to pay a premium for certainty._
+* Expected utility value is not how people make decisions. Choosing between 
+  1.  50% between 1 and 4 million dollars 
+  2. certain 2 million dollars
+
+  Non-millionares will choose the lower expected value (2) and if your bank account is $1M you'll likely double for certain whereas if it is $4M you'd likely take the gamble to keep your wealth. _People are willing to pay a premium for certainty._
 * When dealing with possible gains, people are risk averse and prefer the for sure option but when dealing with losses they are risk seeking and prefer to gamble. Try  
 
   **Losses register psychologically as twice the weight of an equal gain.**
