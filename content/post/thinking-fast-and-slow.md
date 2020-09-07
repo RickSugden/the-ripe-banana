@@ -72,3 +72,7 @@ This book reflects decades of psychology research so no summary will do the orig
   _A fancy car will only make you happy in relation to how much you think about your car. If it's something you don't think about often, it won't bring you much happiness._
 
 ### Reflections
+
+This book has taught me so much about the way our minds take shortcuts and how those can lead to making ourselves less happy or successful than we ought to be. It taught me how to ground my confidence in probability to make the informed decision. Perhaps most importantly, it gave insight as to how we shortchange ourselves of life satisfaction just because of the way we reflect.
+
+These ideas 
