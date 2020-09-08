@@ -7,11 +7,13 @@ timeToRead = 4
 title = "How To Read A Book"
 
 +++
+### How to Read a Book
+
 I figured a good way to kickoff this reading project would be with "How to Read a Book" by Mortimer Adler and Charles Doren. I will start with some of the main takeaways from the book and provide my own edited version of their strategy for how to read books. Then I will discuss their suggestions on how to criticize a book _properly_. I will wrap up with a discussion of their ideas and which parts I will be adopting for this blog.
 
 I've been a slow reader all my life. In grade school, I would see my friends reading gigantic fantasy novels and they would be turning the pages at a speed incomprehensible to my grade-four self. I remember feeling suspicious that someone could consume the information that fast... and a little frustrated that I certainly couldn't. Since those days, I still wonder whether I was just a sucker for wasting so much time when I should be "skimming" my readings -- whatever that means. This book helped me understand that different types and speeds of reading and when to employ each. Here are some of the main points I picked up on:
 
-**Main Takeaways**
+### **Notes**
 
 * If the text is challenging, on the first read through, don't dwell on passages you don't understand. Keep moving and once you have an understanding of the greater picture, it will often make sense. A great example of when this would be useful is in reading Shakespeare.
 * Many people believe it is desirable to read faster, full stop. The authors argue that many people need to read certain texts slower, to allow for contemplation and absorption of the ideas. Other times, it may not even be necessary to read every word. Make sure you know what kind of book it is and pace accordingly.
@@ -41,7 +43,7 @@ More importantly, there are **only four** different ways of disagreeing with an 
 3. their logic is not sound
 4. their analysis is incomplete
 
-**Discussion**
+### **Reflection**
 
 I believe their model of criticism is simple yet powerful. Having them categorized invites the critical reader to be specific and think more deeply about their critical ideas. For example, if a reader were to say the author is misinformed, it inherently prompts them to complete the thought and explain precisely how they are misinformed or else the criticism will not be taken seriously. I am going to adopt this system for future blog posts. I will call it the **Four Failures**.
 
