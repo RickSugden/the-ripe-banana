@@ -3,7 +3,7 @@ authors = []
 date = 2020-09-06T04:00:00Z
 excerpt = ""
 hero = "/images/the_thinker-3.jpg"
-timeToRead = 6
+timeToRead = 7
 title = "Thinking Fast and Slow"
 
 +++
