@@ -1,8 +1,7 @@
 +++
 authors = []
 date = 2020-09-08T04:00:00Z
-draft = true
-excerpt = ""
+excerpt = "Can you determine which face is real?"
 hero = "/images/i_robot.jpg"
 timeToRead = 3
 title = "Read This First (Artificial Intelligence)"
@@ -16,7 +15,7 @@ One of the first things in the field of AI that really caught my eye was this we
 
 [https://www.whichfaceisreal.com/](https://www.whichfaceisreal.com/ "https://www.whichfaceisreal.com/")
 
-This website has a stock of many photographs of people's faces as well as many images of faces that it has generated. The people do not exist, the images are completely made up. Despite this, the game (i.e. determining which is real) is rather difficult for someone who has not studied the computer programming. I was shocked to discover that AI had come so far, in such a human, quasi-sacred domain.
+This website has a stock of many photographs of people's faces as well as many images of faces that it has generated. The people do not exist, the images are completely made up. Despite this, the game (i.e. determining which is real) is rather difficult for someone who has not studied the computer programming. Can you determine which face is real? I was shocked to discover that AI has come so far, in such a human, quasi-sacred domain.
 
 Another really cool introduction to AI applications is the Netflix documentary on AlphaGO, a program that beat the world champion of the classic strategy game "go" which has long been thought of as a game too intuitive for a computer to understand. I will eventually return to this topic in a future post as computers playing strategy games fascinate me.
 
