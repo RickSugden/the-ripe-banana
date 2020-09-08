@@ -27,7 +27,7 @@ I could ramble on about the cool things going on in the world of AI but I should
 
 I'm sure there are a variety of ways to define AI (which is technically not the same as ML, but I'm not going to go into that), so when I refer to it, I am specifically referring to the subset of computer programs that can _mimic_ intelligence by being trained. These computer programs are composed of artificial "neurons" arranged to mimic a simple "brain" structure. I will be referring primarily to the AIs that exist today and not to the futuristic doomsday device known as "General AI" (although, I may do a post on that, just for fun). To quote my good friend Madhav Singhal: 
 
-> If one wants to philosophize about AI, then should be able write the code and do the math for it first.
+> If one wants to philosophize about AI, then one should be able write the code and do the math for it first.
 
 As I am writing this, AI has been described as "Narrow AI". That is to say, it is generally very good but only at a very narrow task. For example, recognizing bone fractures or classifying objects as cats. However, the technology is quickly improving and we are seeing more and more intelligent applications such as self driving cars, text interpretation and face recognition. 
 
