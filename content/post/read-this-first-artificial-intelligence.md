@@ -2,7 +2,7 @@
 authors = []
 date = 2020-09-08T04:00:00Z
 excerpt = "Can you determine which face is real?"
-hero = "/images/i_robot.jpg"
+hero = "/images/i_robot-1.jpg"
 timeToRead = 3
 title = "Read This First (Artificial Intelligence)"
 
