@@ -49,7 +49,7 @@ I believe their model of criticism is simple yet powerful. Having them categoriz
 
 I think that although their systematic approach to reading would be excellent for extracting every drop of information from a single or a few books (in which case I would recommend it). Because my goals are to gain heuristics (backed up by powerful arguments) to help understand the world, I am trying to survey a large number of books. My goal does not require so much structure, but rather requires important ideas to be read, understood rigorously, and noted. When I make these notes, I try to condense the information as tightly as possible, because it forces me to have a high level of understanding (interestingly, some AI systems are based on this principle).
 
-**Conclusion**
+### **Conclusion**
 
 Although I am not adopting their reading method verbatim , I am going to be using several of their ideas. I would recommend their strategy for anyone attempting a deep dive into a text. And lastly, I did not disagree with the book per se, I only found that the signal to noise ratio level (ironically, one of their covered topics) was too low. I would not recommend this book, a summary/blinklist of the strategy will do.
 
