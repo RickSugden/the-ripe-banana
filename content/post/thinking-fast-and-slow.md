@@ -88,10 +88,10 @@ Let's return to the discussion of the experiencing self vs the remembering self.
 
 This provides a strong reasoning for why we should care about a "**quantitatively good life**". A reasonable solution to this is to adopt **everyday habits** (to account for duration neglect) that are **inherently enjoyable** (to account for the asylum problem). Another recommendation would be to design your life so you spend as little time as possible doing obligatory things you don't want to do. Perhaps, don't set yourself up with a long commute or maybe invest in a delivery groceries subscription--whatever it looks like for you. Of course, my intention is not to discredit the highlight-reel experiences that we are often proud and nostalgic of, I am simply urging for more consideration of quantitative quality of life. As the modern world keeps us intensely busy, finding time for these sorts of things can be challenging so I will end this segment with a quote.
 
-> Discipline equals freedom - Jocko Willink
+> Discipline equals freedom
+>
+> \- Jocko Willink
 
 ### conclusion
 
 These ideas are not limited to self-improvement. Concepts such as the halo effect, over-weighting of improbable events, duration neglect etc. are simply tools for understanding other's thinking. I hope to use these tools when evaluating future books both as criticism and support. Now that I have covered both reading clearly and thinking clearly, this blog is ready to take on something more abstract.
-
-I want to remind you guys that this is meant to be a dialogue. Today's philosophy ramble was not anticipated, I just started writing and that's where I ended up, let me know if this is something you like/dislike/hate... I want to hear from you! Reach out on facebook to Rick Sugden.
