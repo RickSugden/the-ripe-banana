@@ -1,4 +1,16 @@
 ---
 label: Book Page
 hide_body: false
-fields: []
+fields:
+- name: page
+  type: text
+  config:
+    required: false
+  label: Page
+  description: Where book blogs can go
+- name: book_post
+  type: include
+  config: {}
+  template: post
+  label: Book Post
+  description: a post including a book
