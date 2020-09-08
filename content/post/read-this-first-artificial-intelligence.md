@@ -7,6 +7,8 @@ timeToRead = 3
 title = "Read This First (Artificial Intelligence)"
 
 +++
+                      
+
 Hello! This is the first post in a series of where I will be documenting my journey of learning Machine Learning(ML)/Artificial Intelligence (AI). In this post I will briefly describe what ML/AI is and what it is used for. I will then give a quick rundown of what readers can expect the structure of the blog to look like.
 
 One of the first things in the field of AI that really caught my eye was this website my dad sent me last year:
