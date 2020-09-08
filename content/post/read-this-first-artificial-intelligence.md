@@ -26,7 +26,7 @@ I could ramble on about the cool things going on in the world of AI but I should
 
 ##### What Is Artificial Intelligence?
 
-I'm sure there are a variety of ways to define AI, but when I refer to it, I am specifically referring to the subset of computer programs that can _mimic_ intelligence by being trained. These computer programs are composed of artificial "neurons" arranged to mimic a simple "brain" structure. I will be referring primarily to the AIs that exist today and not to the futuristic doomsday device known as "General AI" (although, I may do a post on that, just for fun). To quote my good friend Madhav Singhal: 
+I'm sure there are a variety of ways to define AI (which is technically not the same as ML, but I'm not going to go into that), so when I refer to it, I am specifically referring to the subset of computer programs that can _mimic_ intelligence by being trained. These computer programs are composed of artificial "neurons" arranged to mimic a simple "brain" structure. I will be referring primarily to the AIs that exist today and not to the futuristic doomsday device known as "General AI" (although, I may do a post on that, just for fun). To quote my good friend Madhav Singhal: 
 
 > If one wants to philosophize about AI, then should be able write the code and do the math for it first.
 
