@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/about-the-author-rick.md
 - content/post/how-to-read-a-book.md
 - content/post/read-this-first-artificial-intelligence.md
 - content/post/read-this-first-books.md
