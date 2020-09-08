@@ -3,7 +3,7 @@ authors = []
 date = 2020-09-08T04:00:00Z
 draft = true
 excerpt = ""
-hero = ""
+hero = "/images/i_robot.jpg"
 timeToRead = 3
 title = "Read This First (Artificial Intelligence)"
 
