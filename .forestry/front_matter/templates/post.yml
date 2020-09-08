@@ -42,5 +42,6 @@ fields:
   label: Authors
 pages:
 - content/post/how-to-read-a-book.md
+- content/post/read-this-first-artificial-intelligence.md
 - content/post/read-this-first-books.md
 - content/post/thinking-fast-and-slow.md
