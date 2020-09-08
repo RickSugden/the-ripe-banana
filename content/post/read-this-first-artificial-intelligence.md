@@ -40,6 +40,8 @@ Disclaimer: I am not an expert. I am not claiming that everything I post is the 
 
 SO... the fundamentals posts are intended to be an introduction to the topic so you can understand later posts, I would still encourage you to learn from other sources too as I am going to avoid getting too bogged down in details and equations.
 
-This summer (2020), I have been inspired by the which face is real game to learn about face-related AIs. I have been looking into the state-of-the-art architectures and what their capabilities are. Once we've covered the fundamentals,  my posts are going to be about sharing my notes and what I've learned about each architecture I've studied. For those of you who are familiar with my reading blog, these AI blogs will not be as structured. They will likely be my raw notes with about 20 minutes of polishing per post. The main objective is simply to make the somewhat technical papers more accsessible.
+This summer (2020), I have been inspired by the which face is real game to learn about face-related AIs. I have been looking into the state-of-the-art architectures and what their capabilities are. Once we've covered the fundamentals,  my posts are going to be about sharing my notes and what I've learned about each architecture I've studied. For those of you who are familiar with my reading blog, these AI blogs will not be as structured. They will likely be my raw notes with about 20 minutes of polishing per post. The main objective is simply to make the somewhat technical papers more accessible.
 
 ##### Conclusion
+
+I am really excited to share my learning journey with you guys and hope that you find it useful. I want to reiterate that I strongly encourage you to call BS whenever you see it. I am still very much so a beginner and would love feedback to help me solidify what I'm learning.
