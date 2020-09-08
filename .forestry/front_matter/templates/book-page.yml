@@ -14,3 +14,5 @@ fields:
   template: post
   label: book post
   description: this would be a blog about a book
+pages:
+- content/books/zero-to-one.md
