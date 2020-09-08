@@ -7,7 +7,7 @@ timeToRead = 3
 title = "Read This First (books)"
 
 +++
-Hello! This is where I am going to be documenting my thoughts on what I have read. In this post I will briefly describe why I read, what I read and then go over my strategy for how I can make this series as useful to both me and to you!
+Hello! This blog is where I am going to be documenting my thoughts on what I have read. In this post I will briefly describe why I read, what I read and then go over my strategy for how I can make this series as useful to both me and to you!
 
 **Why I read**
 
