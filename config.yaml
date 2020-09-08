@@ -18,10 +18,3 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
-
-
-title = "Hugo Boilerplate"
-description = "Welcome to my website"
-metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
-author = "YOUR_NAME"
-
