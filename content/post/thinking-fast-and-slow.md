@@ -42,8 +42,10 @@ This book reflects decades of psychology research; no summary will do justice to
 ##### Part 4: Decision Making
 
 * Expected utility value is not how people make decisions. Choosing between
-  1. 50% between 1 and 4 million dollars
-  2. certain 2 million dollars
+
+  a) 50% between 1 and 4 million dollars
+
+  b) certain 2 million dollars
 
   If their bank account is $1M or lower people likely double for certain whereas if it is $4M people prefer to take the gamble to keep their wealth. The first case shows us that _people are willing to pay a premium for certainty._
 * When dealing with possible gains, people are risk averse and prefer the for sure option but when dealing with losses they are risk seeking and prefer to gamble.
@@ -92,4 +94,4 @@ This provides a robust reasoning for why we should pursue **everyday habits** (t
 
 These ideas are not limited to self-improvement. Concepts such as the halo effect, over-weighting of improbable events, duration neglect etc. are simply tools for understanding other's thinking. I hope to use these tools when evaluating future books both as criticism and support. Now that I have covered both reading clearly and thinking clearly, this blog is ready to take on something more abstract.
 
- I want to remind you guys that this is meant to be a dialogue. Today's philosophy ramble was not anticipated, I just started writing and that's where I ended up, let me know if this is something you like/dislike/hate... I want to hear from you! Reach out on facebook to Rick Sugden. 
+I want to remind you guys that this is meant to be a dialogue. Today's philosophy ramble was not anticipated, I just started writing and that's where I ended up, let me know if this is something you like/dislike/hate... I want to hear from you! Reach out on facebook to Rick Sugden.
