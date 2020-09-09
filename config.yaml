@@ -16,3 +16,5 @@ social:
   youtube: "#"
 taxonomies:
   author: authors
+
+sectionPagesMenu = "mainmenu"
