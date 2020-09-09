@@ -1,7 +1,7 @@
 ---
-baseURL: https://example.com
+baseURL: https://ricksugden.com
 languageCode: en-us
-title: Hugo Novela
+title: RipeBanana
 pygmentsstyle: monokai
 module:
   imports:
